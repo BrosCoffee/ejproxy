@@ -1,0 +1,5 @@
+.DS_Store
+*.cpython-36.pyc
+.env
+media
+__pycache__/
